@@ -1,0 +1,15 @@
+E:\3 курс\Практика\Composite\bin\Debug\net6.0\Composite.exe
+E:\3 курс\Практика\Composite\bin\Debug\net6.0\Composite.deps.json
+E:\3 курс\Практика\Composite\bin\Debug\net6.0\Composite.runtimeconfig.json
+E:\3 курс\Практика\Composite\bin\Debug\net6.0\Composite.dll
+E:\3 курс\Практика\Composite\bin\Debug\net6.0\ref\Composite.dll
+E:\3 курс\Практика\Composite\bin\Debug\net6.0\Composite.pdb
+E:\3 курс\Практика\Composite\obj\Debug\net6.0\Composite.csproj.AssemblyReference.cache
+E:\3 курс\Практика\Composite\obj\Debug\net6.0\Composite.GeneratedMSBuildEditorConfig.editorconfig
+E:\3 курс\Практика\Composite\obj\Debug\net6.0\Composite.AssemblyInfoInputs.cache
+E:\3 курс\Практика\Composite\obj\Debug\net6.0\Composite.AssemblyInfo.cs
+E:\3 курс\Практика\Composite\obj\Debug\net6.0\Composite.csproj.CoreCompileInputs.cache
+E:\3 курс\Практика\Composite\obj\Debug\net6.0\Composite.dll
+E:\3 курс\Практика\Composite\obj\Debug\net6.0\ref\Composite.dll
+E:\3 курс\Практика\Composite\obj\Debug\net6.0\Composite.pdb
+E:\3 курс\Практика\Composite\obj\Debug\net6.0\Composite.genruntimeconfig.cache
