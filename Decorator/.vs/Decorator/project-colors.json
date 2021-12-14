@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e660e456-e1ef-44d4-bb64-315f5d6d7b4b": {
+      "ProjectGuid": "e660e456-e1ef-44d4-bb64-315f5d6d7b4b",
+      "DisplayName": "Decorator",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
