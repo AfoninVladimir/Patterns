@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\3 курс\\5 семестр\\C#\\Decorator\\Decorator.csproj": {}
+    "E:\\3 курс\\5 семестр\\Практика\\Patterns\\Decorator\\Decorator.csproj": {}
   },
   "projects": {
-    "E:\\3 курс\\5 семестр\\C#\\Decorator\\Decorator.csproj": {
+    "E:\\3 курс\\5 семестр\\Практика\\Patterns\\Decorator\\Decorator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\3 курс\\5 семестр\\C#\\Decorator\\Decorator.csproj",
+        "projectUniqueName": "E:\\3 курс\\5 семестр\\Практика\\Patterns\\Decorator\\Decorator.csproj",
         "projectName": "Decorator",
-        "projectPath": "E:\\3 курс\\5 семестр\\C#\\Decorator\\Decorator.csproj",
+        "projectPath": "E:\\3 курс\\5 семестр\\Практика\\Patterns\\Decorator\\Decorator.csproj",
         "packagesPath": "C:\\Users\\KickASSer\\.nuget\\packages\\",
-        "outputPath": "E:\\3 курс\\5 семестр\\C#\\Decorator\\obj\\",
+        "outputPath": "E:\\3 курс\\5 семестр\\Практика\\Patterns\\Decorator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\KickASSer\\AppData\\Roaming\\NuGet\\NuGet.Config",

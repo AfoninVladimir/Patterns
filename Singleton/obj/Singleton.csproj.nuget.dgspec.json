@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\3 курс\\5 семестр\\C#\\Singleton\\Singleton.csproj": {}
+    "E:\\3 курс\\5 семестр\\Практика\\Patterns\\Singleton\\Singleton.csproj": {}
   },
   "projects": {
-    "E:\\3 курс\\5 семестр\\C#\\Singleton\\Singleton.csproj": {
+    "E:\\3 курс\\5 семестр\\Практика\\Patterns\\Singleton\\Singleton.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\3 курс\\5 семестр\\C#\\Singleton\\Singleton.csproj",
+        "projectUniqueName": "E:\\3 курс\\5 семестр\\Практика\\Patterns\\Singleton\\Singleton.csproj",
         "projectName": "Singleton",
-        "projectPath": "E:\\3 курс\\5 семестр\\C#\\Singleton\\Singleton.csproj",
+        "projectPath": "E:\\3 курс\\5 семестр\\Практика\\Patterns\\Singleton\\Singleton.csproj",
         "packagesPath": "C:\\Users\\KickASSer\\.nuget\\packages\\",
-        "outputPath": "E:\\3 курс\\5 семестр\\C#\\Singleton\\obj\\",
+        "outputPath": "E:\\3 курс\\5 семестр\\Практика\\Patterns\\Singleton\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\KickASSer\\AppData\\Roaming\\NuGet\\NuGet.Config",

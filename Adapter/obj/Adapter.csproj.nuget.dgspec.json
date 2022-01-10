@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\3 курс\\5 семестр\\C#\\Adapter\\Adapter.csproj": {}
+    "E:\\3 курс\\5 семестр\\Практика\\Patterns\\Adapter\\Adapter.csproj": {}
   },
   "projects": {
-    "E:\\3 курс\\5 семестр\\C#\\Adapter\\Adapter.csproj": {
+    "E:\\3 курс\\5 семестр\\Практика\\Patterns\\Adapter\\Adapter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\3 курс\\5 семестр\\C#\\Adapter\\Adapter.csproj",
+        "projectUniqueName": "E:\\3 курс\\5 семестр\\Практика\\Patterns\\Adapter\\Adapter.csproj",
         "projectName": "Adapter",
-        "projectPath": "E:\\3 курс\\5 семестр\\C#\\Adapter\\Adapter.csproj",
+        "projectPath": "E:\\3 курс\\5 семестр\\Практика\\Patterns\\Adapter\\Adapter.csproj",
         "packagesPath": "C:\\Users\\KickASSer\\.nuget\\packages\\",
-        "outputPath": "E:\\3 курс\\5 семестр\\C#\\Adapter\\obj\\",
+        "outputPath": "E:\\3 курс\\5 семестр\\Практика\\Patterns\\Adapter\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\KickASSer\\AppData\\Roaming\\NuGet\\NuGet.Config",

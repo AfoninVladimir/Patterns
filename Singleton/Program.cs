@@ -3,16 +3,16 @@
     {
         static void Main()
         {
-            Singleton x1 = Singleton.GetInstance();
-            Singleton x2 = Singleton.GetInstance();
+            Singleton x = Singleton.GetInstance();
+            Singleton н = Singleton.GetInstance();
 
-            if (x1 == x2)
+            if (x == н)
             {
-                Console.WriteLine("Синглтон работает, обе переменные содержат один и тот же экземпляр.");
+                Console.WriteLine("Обе переменные содержат один и тот же экземпляр.");
             }
             else
             {
-                Console.WriteLine("Одноэлементный сбой, переменные содержат разные экземпляры.");
+                Console.WriteLine("Переменные содержат разные экземпляры.");
             }
         }
     }

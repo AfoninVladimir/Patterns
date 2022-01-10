@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SRD2cbBWk8dNLPc2NmWHOXBp2MHOElRGMyN+acMN8Z/4byF5aRL3TAna4hFHrF52AxMFEELCIYDR/aE3TXjYWA==",
+  "dgSpecHash": "7/7cjc3KFUX3rCU0PWPnqtL5xITycg/wAP5qTZIV7OUQEDqqS/vyLUs/ESmPAIvlZqGp11GMvZsXTFi/v7cuWA==",
   "success": true,
-  "projectFilePath": "E:\\3 курс\\5 семестр\\C#\\Decorator\\Decorator.csproj",
+  "projectFilePath": "E:\\3 курс\\5 семестр\\Практика\\Patterns\\Decorator\\Decorator.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

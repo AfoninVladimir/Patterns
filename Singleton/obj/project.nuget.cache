@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jlbZcTgjqQ9W4VvGmcCUEPE0/IlctbR2ISi1Q4PJyLOcomKaEsTkmIVIoXmh2SZZ/9tqqQ1h/wBEWICmCpyKcQ==",
+  "dgSpecHash": "yzPb0Rq/1xirkttr8ZdsDu7iw1FvBISheGSEGpdCe3J5vyVY/mDrQcsEOf6hA2D4gOYmWBf0KgXWTHJ6QbsBzw==",
   "success": true,
-  "projectFilePath": "E:\\3 курс\\5 семестр\\C#\\Singleton\\Singleton.csproj",
+  "projectFilePath": "E:\\3 курс\\5 семестр\\Практика\\Patterns\\Singleton\\Singleton.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
