@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "dc4b2fe9-3c7a-47bb-8c2a-78f2566821a5": {
+      "ProjectGuid": "dc4b2fe9-3c7a-47bb-8c2a-78f2566821a5",
+      "DisplayName": "Strategy",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}

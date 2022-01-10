@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "661sg1Z2w2pusHiIHNdIQr1yvMeri1BOmrXlfH+BLpjFhmpaXeAo1za0yo86CGXvSwPOo+iqWHjiZtus3tSEgw==",
+  "dgSpecHash": "2cmI+2Mq9y8hRNJBq58zOqsevCMqrk8uzELOfb7e3zlfmZknP/wy5jvbfvbPjRqLyM4WfX8hEdPB4EoTrlt8tQ==",
   "success": true,
-  "projectFilePath": "E:\\3 курс\\5 семестр\\C#\\Facade\\Facade.csproj",
+  "projectFilePath": "E:\\3 курс\\5 семестр\\Практика\\Patterns\\Facade\\Facade.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

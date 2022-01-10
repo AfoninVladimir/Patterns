@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2cb080e3-4e59-4b37-8b1d-0abe35677e3b": {
+      "ProjectGuid": "2cb080e3-4e59-4b37-8b1d-0abe35677e3b",
+      "DisplayName": "Singleton",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

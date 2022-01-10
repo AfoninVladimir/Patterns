@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\3 курс\\5 семестр\\C#\\Facade\\Facade.csproj": {}
+    "E:\\3 курс\\5 семестр\\Практика\\Patterns\\Facade\\Facade.csproj": {}
   },
   "projects": {
-    "E:\\3 курс\\5 семестр\\C#\\Facade\\Facade.csproj": {
+    "E:\\3 курс\\5 семестр\\Практика\\Patterns\\Facade\\Facade.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\3 курс\\5 семестр\\C#\\Facade\\Facade.csproj",
+        "projectUniqueName": "E:\\3 курс\\5 семестр\\Практика\\Patterns\\Facade\\Facade.csproj",
         "projectName": "Facade",
-        "projectPath": "E:\\3 курс\\5 семестр\\C#\\Facade\\Facade.csproj",
+        "projectPath": "E:\\3 курс\\5 семестр\\Практика\\Patterns\\Facade\\Facade.csproj",
         "packagesPath": "C:\\Users\\KickASSer\\.nuget\\packages\\",
-        "outputPath": "E:\\3 курс\\5 семестр\\C#\\Facade\\obj\\",
+        "outputPath": "E:\\3 курс\\5 семестр\\Практика\\Patterns\\Facade\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\KickASSer\\AppData\\Roaming\\NuGet\\NuGet.Config",

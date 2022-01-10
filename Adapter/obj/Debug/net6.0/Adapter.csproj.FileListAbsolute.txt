@@ -1,0 +1,15 @@
+E:\3 курс\5 семестр\C#\Adapter\bin\Debug\net6.0\Adapter.exe
+E:\3 курс\5 семестр\C#\Adapter\bin\Debug\net6.0\Adapter.deps.json
+E:\3 курс\5 семестр\C#\Adapter\bin\Debug\net6.0\Adapter.runtimeconfig.json
+E:\3 курс\5 семестр\C#\Adapter\bin\Debug\net6.0\Adapter.dll
+E:\3 курс\5 семестр\C#\Adapter\bin\Debug\net6.0\ref\Adapter.dll
+E:\3 курс\5 семестр\C#\Adapter\bin\Debug\net6.0\Adapter.pdb
+E:\3 курс\5 семестр\C#\Adapter\obj\Debug\net6.0\Adapter.GeneratedMSBuildEditorConfig.editorconfig
+E:\3 курс\5 семестр\C#\Adapter\obj\Debug\net6.0\Adapter.AssemblyInfoInputs.cache
+E:\3 курс\5 семестр\C#\Adapter\obj\Debug\net6.0\Adapter.AssemblyInfo.cs
+E:\3 курс\5 семестр\C#\Adapter\obj\Debug\net6.0\Adapter.csproj.CoreCompileInputs.cache
+E:\3 курс\5 семестр\C#\Adapter\obj\Debug\net6.0\Adapter.dll
+E:\3 курс\5 семестр\C#\Adapter\obj\Debug\net6.0\ref\Adapter.dll
+E:\3 курс\5 семестр\C#\Adapter\obj\Debug\net6.0\Adapter.pdb
+E:\3 курс\5 семестр\C#\Adapter\obj\Debug\net6.0\Adapter.genruntimeconfig.cache
+E:\3 курс\5 семестр\C#\Adapter\obj\Debug\net6.0\Adapter.csproj.AssemblyReference.cache
