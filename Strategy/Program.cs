@@ -3,8 +3,6 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
-
 public interface IStrategy
     {
         object Algorithm(object data);
@@ -30,7 +28,7 @@ public interface IStrategy
 
         var strategy = new Strategy();
 
-        Console.WriteLine("Сортировка gо жанрам");
+        Console.WriteLine("Сортировка по жанрам");
         strategy.SetStrategy(new SortGenre());
         strategy.DoSomeBusinessLogic(books);
 

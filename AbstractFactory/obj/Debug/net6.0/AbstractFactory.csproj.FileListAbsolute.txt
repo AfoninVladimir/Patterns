@@ -1,0 +1,15 @@
+E:\3 курс\5 семестр\C#\AbstractFactory\bin\Debug\net6.0\AbstractFactory.exe
+E:\3 курс\5 семестр\C#\AbstractFactory\bin\Debug\net6.0\AbstractFactory.deps.json
+E:\3 курс\5 семестр\C#\AbstractFactory\bin\Debug\net6.0\AbstractFactory.runtimeconfig.json
+E:\3 курс\5 семестр\C#\AbstractFactory\bin\Debug\net6.0\AbstractFactory.dll
+E:\3 курс\5 семестр\C#\AbstractFactory\bin\Debug\net6.0\ref\AbstractFactory.dll
+E:\3 курс\5 семестр\C#\AbstractFactory\bin\Debug\net6.0\AbstractFactory.pdb
+E:\3 курс\5 семестр\C#\AbstractFactory\obj\Debug\net6.0\AbstractFactory.csproj.AssemblyReference.cache
+E:\3 курс\5 семестр\C#\AbstractFactory\obj\Debug\net6.0\AbstractFactory.GeneratedMSBuildEditorConfig.editorconfig
+E:\3 курс\5 семестр\C#\AbstractFactory\obj\Debug\net6.0\AbstractFactory.AssemblyInfoInputs.cache
+E:\3 курс\5 семестр\C#\AbstractFactory\obj\Debug\net6.0\AbstractFactory.AssemblyInfo.cs
+E:\3 курс\5 семестр\C#\AbstractFactory\obj\Debug\net6.0\AbstractFactory.csproj.CoreCompileInputs.cache
+E:\3 курс\5 семестр\C#\AbstractFactory\obj\Debug\net6.0\AbstractFactory.dll
+E:\3 курс\5 семестр\C#\AbstractFactory\obj\Debug\net6.0\ref\AbstractFactory.dll
+E:\3 курс\5 семестр\C#\AbstractFactory\obj\Debug\net6.0\AbstractFactory.pdb
+E:\3 курс\5 семестр\C#\AbstractFactory\obj\Debug\net6.0\AbstractFactory.genruntimeconfig.cache

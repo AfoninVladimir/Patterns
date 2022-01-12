@@ -4,15 +4,15 @@
         static void Main()
         {
             Singleton x = Singleton.GetInstance();
-            Singleton н = Singleton.GetInstance();
+            Singleton y = Singleton.GetInstance();
 
-            if (x == н)
+            if (x == y)
             {
-                Console.WriteLine("Обе переменные содержат один и тот же экземпляр.");
+                Console.WriteLine("Обе переменные равны.");
             }
             else
             {
-                Console.WriteLine("Переменные содержат разные экземпляры.");
+                Console.WriteLine("Переменные разные.");
             }
         }
     }
