@@ -8,8 +8,6 @@ class Program
     {
         static void Main()
         {
-            // Ккод создаёт объект-строитель, передаёт его директору,
-            // а затем инициирует  процесс построения. 
             var director = new Director();
             var builder = new Builder();
             director.Builder = builder;

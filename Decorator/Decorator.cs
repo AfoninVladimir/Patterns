@@ -13,13 +13,6 @@ abstract class Decorator : Berry
     }
     public override string Operation()
     {
-        if (this.berry != null)
-        {
-            return this.berry.Operation();
-        }
-        else
-        {
-            return string.Empty;
-        }
+        return this.berry.Operation();
     }
 }

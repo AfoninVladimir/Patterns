@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-// класс меч
+// класс Копьё
 class Spear : Weapon
 {
     public override void Mastery()

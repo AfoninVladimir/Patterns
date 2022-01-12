@@ -17,7 +17,7 @@ class Strategy
     {
         this.strategy = strategy;
     }
-    public void DoSomeBusinessLogic(Book [] books)
+    public void Logic(Book [] books)
     {
         Console.WriteLine("Результат сортировки:");
         this.strategy.Algorithm(books);     

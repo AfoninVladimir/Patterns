@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-// клиент - сам супергерой
+// клиент
 class Hero
 {
     private Weapon weapon;

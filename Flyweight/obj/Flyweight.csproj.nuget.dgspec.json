@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\3 курс\\5 семестр\\C#\\Flyweight\\Flyweight.csproj": {}
+    "E:\\3 курс\\5 семестр\\Практика\\Patterns\\Flyweight\\Flyweight.csproj": {}
   },
   "projects": {
-    "E:\\3 курс\\5 семестр\\C#\\Flyweight\\Flyweight.csproj": {
+    "E:\\3 курс\\5 семестр\\Практика\\Patterns\\Flyweight\\Flyweight.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\3 курс\\5 семестр\\C#\\Flyweight\\Flyweight.csproj",
+        "projectUniqueName": "E:\\3 курс\\5 семестр\\Практика\\Patterns\\Flyweight\\Flyweight.csproj",
         "projectName": "Flyweight",
-        "projectPath": "E:\\3 курс\\5 семестр\\C#\\Flyweight\\Flyweight.csproj",
+        "projectPath": "E:\\3 курс\\5 семестр\\Практика\\Patterns\\Flyweight\\Flyweight.csproj",
         "packagesPath": "C:\\Users\\KickASSer\\.nuget\\packages\\",
-        "outputPath": "E:\\3 курс\\5 семестр\\C#\\Flyweight\\obj\\",
+        "outputPath": "E:\\3 курс\\5 семестр\\Практика\\Patterns\\Flyweight\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\KickASSer\\AppData\\Roaming\\NuGet\\NuGet.Config",

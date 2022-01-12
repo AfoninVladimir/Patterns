@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "whTHWvUEvgphzQ533KV0UyXNqzpFCOoKaILiPe5UqwjtugcM90qz+1w1twunnyib+UP6c/FWO48qGvDw0+NZkg==",
+  "dgSpecHash": "xccN6xjQ93mw+qJdLamnAPTmneQ29hJCqTn5VAveE/YaBStXcs7254UZE8/BK6Qb1nnT8HdIiw+5XAG2I9sjdw==",
   "success": true,
-  "projectFilePath": "E:\\3 курс\\5 семестр\\C#\\Flyweight\\Flyweight.csproj",
+  "projectFilePath": "E:\\3 курс\\5 семестр\\Практика\\Patterns\\Flyweight\\Flyweight.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\KickASSer\\.nuget\\packages\\json.net\\1.0.33\\json.net.1.0.33.nupkg.sha512",
     "C:\\Users\\KickASSer\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"

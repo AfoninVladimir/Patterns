@@ -28,14 +28,14 @@ public interface IStrategy
 
         var strategy = new Strategy();
 
-        Console.WriteLine("Сортировка по жанрам");
+        Console.WriteLine("Группирование по жанрам");
         strategy.SetStrategy(new SortGenre());
-        strategy.DoSomeBusinessLogic(books);
+        strategy.Logic(books);
 
         Console.WriteLine();
 
-        Console.WriteLine("Сортирова по aвторам");
+        Console.WriteLine("Группирование по aвторам");
         strategy.SetStrategy(new SortAutor());
-        strategy.DoSomeBusinessLogic(books);
+        strategy.Logic(books);
         }
     }
